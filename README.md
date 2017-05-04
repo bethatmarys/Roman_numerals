@@ -14,8 +14,8 @@ _This is a webpage with a simple form in which the user inputs a number under 3,
 
 ## Specs
 
-* _turn inputted numbers into roman numerals_
-  * _example input: 1,5,10. example output: I,V,X._
+* _match inputted numbers to variables_
+  * _example input: 10, 1, 5. example output: X, I, V._
 * _add together values of roman numerals_
   * _example input: 50 + 100. example output: LC_
 * _identify if three or more characters are used_
